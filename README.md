@@ -1,4 +1,5 @@
 # Data-science
+The project domain is data science ,and exploring the topics and learn more about data science.
 #task1
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable,such as the distribution of ages or genders in a population.
 #task2
